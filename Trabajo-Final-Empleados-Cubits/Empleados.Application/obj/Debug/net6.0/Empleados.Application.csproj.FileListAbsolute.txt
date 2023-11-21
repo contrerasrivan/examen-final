@@ -1,0 +1,15 @@
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\bin\Debug\net6.0\Empleados.Application.deps.json
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\bin\Debug\net6.0\Empleados.Application.dll
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\bin\Debug\net6.0\Empleados.Application.pdb
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\bin\Debug\net6.0\Empleados.Domain.dll
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\bin\Debug\net6.0\Empleados.Domain.pdb
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\Empleados.Application.csproj.AssemblyReference.cache
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\Empleados.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\Empleados.Application.AssemblyInfoInputs.cache
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\Empleados.Application.AssemblyInfo.cs
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\Empleados.Application.csproj.CoreCompileInputs.cache
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\Empleados.Application.csproj.CopyComplete
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\Empleados.Application.dll
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\refint\Empleados.Application.dll
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\Empleados.Application.pdb
+D:\Mio\examen-final\Trabajo-Final-Empleados-Cubits\Empleados.Application\obj\Debug\net6.0\ref\Empleados.Application.dll
